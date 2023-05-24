@@ -1,0 +1,215 @@
+body{
+    background-color: rgb(238, 233, 208);
+}
+
+.container-navbar{
+    background-color: rgb(238, 233, 208);
+    color :rgb(175, 145, 61)  ;
+    font-style: oblique;
+    font-size: 50px;
+    width: 100%;
+    height: auto;
+    text-decoration: dotted;
+}
+
+.ul-navbar{
+    background-color: rgb(153, 160, 52);
+    display : flex;
+    color :rgb(226, 173, 26);
+    height : 40px;
+    
+    justify-content : right;
+    align-items: center;
+   margin-top: 5px;
+
+}
+
+.li-navbar{
+    background-color: rgb(153, 160, 52);
+    border : 20px rgb(8, 10, 10);
+    list-style-type: none;
+    padding:10px;
+    font-size: 15px;
+    border-radius: 15px;
+    margin-right: 20px;
+    font-style: normal;
+}
+    
+    
+.a-navbar{
+    color :rgb(233, 233, 233);
+ 
+}
+    
+
+.li-navbar:hover{
+   background-color: rgb(0, 0, 0);
+    transition: .5s ease-in-out;
+}
+.warnalok:hover{
+    background-color:rgb(175, 145, 61);
+     transition: .5s ease-in-out;}
+
+
+ .warnaja:hover{
+    background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;}
+
+ .warnaga:hover{
+     background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;}
+
+ .warnapol:hover{
+    background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;
+ }
+
+ .warnaeuler:hover{
+    background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;
+ }
+ 
+ .warnainterpolasi:hover{
+    background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;
+ }
+
+ .warnaturunan:hover{
+    background-color: rgb(175, 145, 61);
+     transition: .5s ease-in-out;
+ }
+ 
+
+
+.blkng{
+    background-color: rgb(231, 235, 179);
+}
+
+.lokalisasi{
+    background-color: rgb(153, 160, 52);
+    width:15% ;
+    height: 15%;
+    margin-top: 30px;
+    margin-left: 2%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.warnalok{
+    color: white;
+    width: 5px;
+    height: 5px;
+    text-align: center;}
+
+
+.akar{
+    background-color: rgb(153, 160, 52);
+    width:15% ;
+    height: 15%;
+    margin-top: 30px;
+    margin-left:20%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+
+    
+}
+
+.warnaakar{
+    color: white;
+    width: 5px;
+    height: 5px;
+    text-align: center;
+    
+   
+ 
+}
+
+.warnapol{
+    color: white;
+    font-size: 18px;
+}
+
+.warnaeuler{
+    color: white;
+    font-size: 18px;
+}
+
+.sistem{
+    background-color: rgb(153, 160, 52);
+    width:15% ;
+    height: 15%;
+    margin-top: 5px;
+    margin-left: 40%;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10px;
+
+
+ 
+}
+
+.warnasistem{
+    color: white;
+    width: 5px;
+    height: 5px;
+    text-align: center;}
+
+.warnaja{
+    color: white;
+    font-size: 18px;
+}
+.warnaga{
+    color: white;
+    font-size: 18px;
+}
+
+.interpolasi{
+    background-color: rgb(153, 160, 52);
+    width:15% ;
+    height: 15%;
+    margin-top: 5px;
+    margin-left: 60%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.warnainterpolasi{
+    color: white;
+    width: 5px;
+    height: 5px;
+    text-align: center;
+
+}
+
+.turunan{
+    background-color: rgb(153, 160, 52);
+    width:15% ;
+    height: 15%;
+    margin-top: 2px;
+    margin-left: 80%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.warnaturunan{
+    color: white;
+    width: 5px;
+    height: 5px;
+    text-align: center;
+}
+
+.bawah{
+    background-color: rgb(153, 160, 52);
+    color: white;
+    height: 40px;
+    font-size: 25px;
+    margin-top: 50px;
+    font-style: normal;
+   text-align: center;
+}
